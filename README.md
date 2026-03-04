@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Jhíneht Alexandra Limas Cortes  
+#  Jhineht Alexandra Limas Cortes  
 
 📊 Analista de Información | Backend & Automatización  
 💻 Estudiante de Análisis y Desarrollo de Software (SENA)  
@@ -6,7 +6,7 @@
 
 ---
 
-## 👩🏻‍💼 PERFIL PROFESIONAL
+##  PERFIL PROFESIONAL
 
 Analista de Información y estudiante de Análisis y Desarrollo de Software, Profesional en Negocios Internacionales, con experiencia en extracción, normalización y transformación de datos, así como en la automatización de procesos empresariales.
 
@@ -18,7 +18,7 @@ Cuento con experiencia en implementación de automatizaciones conectadas a Googl
 
 ## 🚀 STACK TECNOLÓGICO  
 
-### 👨🏻‍💻 Lenguajes  
+###  Lenguajes  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -77,4 +77,4 @@ Aplicación móvil orientada a la gestión académica.
 ## 📫 CONTACTO  
 
 📧 jhinehtalexandra@gmail.com  
-🔗 https://github.com/jhinehtalexandra-byte
+
