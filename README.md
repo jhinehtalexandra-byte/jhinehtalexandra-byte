@@ -74,7 +74,8 @@ Aplicación móvil orientada a la gestión académica.
 
 ---
 
-## 📫 CONTACTO  
-
-📧 jhinehtalexandra@gmail.com  
+### 📄 Documentación y Contacto
+* [**📄 Consultar Hoja de Vida (PDF)**](https://drive.google.com/drive/u/0/folders/1Cup7UE39bcnBublMs5Hz6TXmf6WpNbA6)
+* [**📂 Ver Carpeta de Certificados**](https://drive.google.com/drive/u/0/folders/1rNvWeBoli2XsPYxfECneFJIekeQNgsna) 
+* 📧 **Email:** jhinehtalexandra@gmail.com 
 
