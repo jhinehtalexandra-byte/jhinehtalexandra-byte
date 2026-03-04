@@ -10,7 +10,7 @@
 
 Analista de Información y estudiante de Análisis y Desarrollo de Software, Profesional en Negocios Internacionales, con experiencia en extracción y transformación de datos, así como en la automatización de procesos empresariales.
 
-He participado en la estructuración de sistemas de información utilizando SQL, Python y Google Apps Script, integrando Google Workspace como entorno de desarrollo para la construcción de formularios dinámicos, automatizaciones de datos y soluciones de trazabilidad documental.
+He participado en la estructuración de sistemas de información utilizando SQL, Python y Google Apps Script, integrando ecosistema de Google como entorno de desarrollo para la construcción de formularios dinámicos, automatizaciones de datos y soluciones de trazabilidad documental.
 
 Cuento con experiencia en implementación de automatizaciones conectadas a Google Sheets, construcción de dashboards en Looker Studio y aplicación de scraping ético para procesos de validación e investigación de información.
 
